@@ -1,0 +1,16 @@
+c:\users\s24-vp\documents\visual studio 2015\Projects\Purse\Purse\bin\Debug\Purse.exe.config
+<<<<<<< .mine
+D:\SVN\Team Purse\Purse\bin\Debug\Purse.exe.config
+||||||| .r16
+=======
+C:\Users\s24-vp\Desktop\Новая папка\Purse\bin\Debug\Purse.exe.config
+>>>>>>> .r25
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\bin\Debug\Purse.exe.config
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\bin\Debug\Purse.exe
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\bin\Debug\Purse.pdb
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.Form1.resources
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.Properties.Resources.resources
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.csproj.GenerateResource.Cache
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.exe
+C:\Users\Бойко\Desktop\Purse-2.0-master\Purse-2.0-master\Purse\obj\Debug\Purse.pdb
